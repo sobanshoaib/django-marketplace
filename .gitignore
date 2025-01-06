@@ -129,6 +129,7 @@ celerybeat.pid
 
 # Environments
 .env
+marketplace_venv/
 .venv
 env/
 venv/
