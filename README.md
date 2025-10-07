@@ -5,7 +5,7 @@ Built with Python, Django, HTML, Tailwind CSS, and Git
 
 ## Overview
 
-QuickSell is a web-based e-commerce platform built with Django. It supports user authentication, dynamic item listings, and full CRUD functionality for managing products. The frontend uses HTML and Tailwind CSS for a clean and responsive interface.
+QuickSell is a web-based e-commerce platform built with Django. It supports user authentication, dynamic item listings, and full CRUD functionality for managing products. The frontend uses HTML, Django templates, and Tailwind CSS for a clean and responsive interface.
 
 ## Features
 
@@ -18,7 +18,8 @@ QuickSell is a web-based e-commerce platform built with Django. It supports user
 ## Technologies
 
 - Python  
-- Django  
+- Django
+- Django templates 
 - HTML  
 - Tailwind CSS  
 - Git
